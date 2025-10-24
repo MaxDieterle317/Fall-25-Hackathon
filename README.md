@@ -1,4 +1,4 @@
-# Fall-25-Hackathon: Rhythm Game
+# Fall-25-Hackathon: BBNoRHYTHM
 
 Engine: Bevy Engine (Rust)
 
