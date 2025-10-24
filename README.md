@@ -1,4 +1,4 @@
-# Fall-25-Hackathon: BBNoRHYTHM
+# Fall-25-Hackathon: bbnoRHYTHM
 
 Engine: Bevy Engine (Rust)
 
